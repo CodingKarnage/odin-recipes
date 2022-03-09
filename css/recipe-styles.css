@@ -1,0 +1,29 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    background-color: darkgrey;
+}
+
+h3 {
+    font-size: 24px;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a{
+    color: forestgreen;
+}

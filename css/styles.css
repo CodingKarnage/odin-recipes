@@ -1,0 +1,36 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    background-color: blue;
+    font-weight: bold;
+}
+
+#center {
+    text-align: center;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    background-color:darkorange;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+}
+
+.source {
+    background-color: gray;
+    text-align: center;
+    font-size: 16px;
+}
